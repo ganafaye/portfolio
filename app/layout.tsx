@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     template: '%s · Gana FAYE',
   },
   description:
-    "Portfolio de Gana FAYE — Ingénieur Systèmes d'Information, Data Scientist, IA & Sécurité SI. Master 2 SI à l'UADB Bambey. Projets Web, Mobile, Data/IA, DevOps & Cybersécurité.",
+    "Bienvenue dans mon univers tech — Ingénieur Systèmes d'Information, Data Scientist, IA & Sécurité SI. Master 2 SI à l'UADB Bambey. Projets Web, Mobile, Data/IA, DevOps & Cybersécurité.",
   keywords: [
     'Gana FAYE',
     'Ingénieur SI',
@@ -47,7 +47,6 @@ export const metadata: Metadata = {
     'Spring Boot',
     'Angular',
     'Python',
-    'Portfolio',
     'Ingénieur Systèmes Information',
   ],
   authors: [{ name: 'Gana FAYE', url: SITE_URL }],
@@ -62,11 +61,11 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'fr_FR',
     url: SITE_URL,
-    siteName: 'Gana FAYE · Portfolio',
+    siteName: 'Gana FAYE · Ingénieur SI, Data & IA',
     title:
       "Gana FAYE — Ingénieur Systèmes d'Information, Data Scientist, IA & Sécurité SI",
     description:
-      "Portfolio de Gana FAYE — Ingénieur Systèmes d'Information, Data Scientist, IA & Sécurité SI. Master 2 SI à l'UADB Bambey.",
+      "Découvrez mes projets Web, Mobile, Data/IA, DevOps & Cybersécurité. Master 2 SI à l'UADB Bambey.",
     images: [
       {
         url: '/opengraph-image.png',
@@ -80,7 +79,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "Gana FAYE — Ingénieur SI, Data Scientist & IA & Sécurité SI",
     description:
-      "Portfolio — Ingénieur SI, Data Scientist, IA & Sécurité SI.",
+      'Projets Web, Mobile, Data/IA, DevOps & Cybersécurité.',
     images: ['/opengraph-image.png'],
   },
   robots: {
