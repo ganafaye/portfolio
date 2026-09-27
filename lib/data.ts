@@ -633,7 +633,7 @@ export const MOBILE_APPS: MobileApp[] = [
     statusColor: 'tertiary',
     color: 'tertiary',
     icon: 'health_and_safety',
-    logoUrl: '/images/projects/app_mobile/MaSantPlus/Logo_MaSanté+ transparent_rogner.png',
+    logoUrl: '/images/projects/app_mobile/MaSantPlus/Logo.png',
     bullets: [
       'Saisie rapide des douleurs — en moins de 30 secondes',
       'Suivi des médicaments et rappels personnalisés',
@@ -642,9 +642,9 @@ export const MOBILE_APPS: MobileApp[] = [
     ],
     stack: ['Flutter', 'Dart', 'Local Storage', 'PDF Export', 'Offline-First'],
     captures: [
-      { src: '/images/projects/app_mobile/MaSantPlus/capture_1_app_masanté+.png', caption: 'Accueil' },
-      { src: '/images/projects/app_mobile/MaSantPlus/capture_2_app_masanté+.png', caption: 'Saisie douleur' },
-      { src: '/images/projects/app_mobile/MaSantPlus/capture_3_app_masanté+.png', caption: 'Médicaments' },
+      { src: '/images/projects/app_mobile/MaSantPlus/capture_1.png', caption: 'Accueil' },
+      { src: '/images/projects/app_mobile/MaSantPlus/capture_2.png', caption: 'Historique douleur' },
+      { src: '/images/projects/app_mobile/MaSantPlus/capture_3.png', caption: 'Médicaments' },
     ],
     specs: [
       { label: 'Framework', value: 'Flutter / Dart' },
